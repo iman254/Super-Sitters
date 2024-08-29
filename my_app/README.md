@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A short descritption, this will be the next bolt version of baby sitting, animal sitting etcv. I intend to make the super sitter my biggest project yet. As of now this is the beginning stag.
 
 Currently, two official plugins are available:
 
